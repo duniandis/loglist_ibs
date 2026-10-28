@@ -1,2 +1,2 @@
 # loglist_ibs
-apk loglist IBS
+web loglist IBS
